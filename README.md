@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Priyansh Chauhan and I'm a web developer and AI/ML enthusiast from India. I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science, with a focus on Artificial Intelligence and Machine Learning (AI/ML).</p>
+<p align="left">My name is Priyansh Chauhan, and I am a web developer and AI/ML enthusiast from India. I have completed my Bachelor of Technology (B.Tech) in Computer Science, with a focus on Artificial Intelligence and Machine Learning (AI/ML).</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning advanced machine learning techniques, data analysis, and infrastructure automation tools.<br>🎯 Goals: To become a proficient Software Development Engineer (SDE) and AI/ML Specialist, and to contribute to impactful projects that address environmental issues such as air quality and climate change.<br>🎲 Fun fact: When I'm not coding, I enjoy exploring the latest trends in technology. I also love connecting with people to discover and share life’s best patterns.</p>
+<p align="left">📚 I'm currently learning advanced machine learning techniques, data analysis, and infrastructure automation tools.<br>🎯 Goals: To become a proficient Software Development Engineer (SDE) and AI/ML Specialist, and to contribute to impactful projects that address environmental issues such as air quality and climate change.<br>🎲 Fun fact: When I'm not coding, I enjoy exploring the latest trends in technology. I also love connecting with people to discover and share life’s best patterns.</p>
 
 ###
 
