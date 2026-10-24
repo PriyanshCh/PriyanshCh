@@ -1,55 +1,41 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.png" alt="Priyansh Chauhan · Software Developer" width="100%">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1400&color=C6FF3D&center=true&vCenter=true&width=640&height=50&lines=Priyansh+Chauhan;Software+Developer;Shipping+ML+behind+real+APIs">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1400&color=4D7C0F&center=true&vCenter=true&width=640&height=50&lines=Priyansh+Chauhan;Software+Developer;Shipping+ML+behind+real+APIs">
-  <img alt="Priyansh Chauhan" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1400&color=C6FF3D&center=true&vCenter=true&width=640&height=50&lines=Priyansh+Chauhan;Software+Developer;Shipping+ML+behind+real+APIs">
-</picture>
+## Connect with me 🤝
 
-**Banking & UPI backends by day. Fine-tuned models behind real APIs by night.**
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyansh1204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://priyanshch.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=C6FF3D" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/PriyanshChauhan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:official.priyanshchauhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=C6FF3D)](https://priyanshch.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=C6FF3D)](https://www.linkedin.com/in/priyansh1204)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=C6FF3D)](https://leetcode.com/u/PriyanshChauhan/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=C6FF3D)](mailto:official.priyanshchauhan@gmail.com)
+## About Me 😊
 
-</div>
+- 🏦 Software Engineer @ **OneStack**: core banking, UPI and KYC systems in PHP (CodeIgniter) and MySQL
+- 💳 Built the **Yes Bank P2PM** integration, 15+ bank MIS reports and 150+ automated backend tests
+- 🧠 Built **[SentimentIQ](https://github.com/PriyanshCh/sentimentiq)**: fine-tuned DistilBERT behind Spring Boot + FastAPI + React, **300ms end to end**
+- 🎓 B.Tech CSE, UPES (2021–25) · ex-Project Intern @ IBM
+- ⚔️ 300+ DSA problems solved in Java
+- 🐳 Currently learning: Docker, system design and scaling
+- 📫 Reach me: **official.priyanshchauhan@gmail.com**
 
-### `$ whoami`
+## Tech Stack 🛠️
 
-- 🏦 **Software Engineer @ OneStack** — 22 features across core banking, UPI (Yes Bank P2PM integration), KYC and RBI reporting · 15+ MIS reports · 150+ automated backend tests
-- 🧠 **Built [SentimentIQ](https://github.com/PriyanshCh/sentimentiq)** — DistilBERT fine-tuned on 43k samples, served via Spring Boot + FastAPI + React, **300ms end to end**
-- 🎓 B.Tech CSE, UPES (2021–25) · ex-Project Intern @ IBM (Neural Style Transfer)
-- ⚔️ 300+ DSA problems in Java · currently deep in Docker & system design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,python,js,react,fastapi,pytorch,mysql,postgres,redis,docker,nginx,git,bootstrap&theme=dark&perline=15" alt="Tech stack">
+</p>
 
-### `~/stack`
-
-| | |
-|---|---|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=C6FF3D) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=C6FF3D) ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=C6FF3D) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-0d1117?style=flat-square&logo=codeigniter&logoColor=C6FF3D) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=C6FF3D) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=C6FF3D) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=C6FF3D) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=C6FF3D) |
-| **Data & ML** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=C6FF3D) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=C6FF3D) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=C6FF3D) ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=C6FF3D) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=C6FF3D) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=C6FF3D) |
-| **Delivery** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=C6FF3D) ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=C6FF3D) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=C6FF3D) |
-
-### `~/projects`
-
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **SentimentIQ** | Real-time emotion analysis across 28 categories · F1 0.57 · <1ms cache hits | DistilBERT, Spring Boot, React, Redis, Docker | [repo](https://github.com/PriyanshCh/sentimentiq) |
-| **Sorting Visualizer** | Animated Bubble, Selection, Insertion, Merge and Quick sort | HTML, CSS, JS | [live](https://sorting-algo-4a223a.netlify.app/) |
-| **SemantiQ** | Flags duplicate questions by meaning, not wording | Python, deep learning | [repo](https://github.com/PriyanshCh/Duplicate-Question-Detection-DQD-) |
-
-### `~/stats`
+## Stats 📊
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PriyanshCh&show_icons=true&hide_border=true&bg_color=07080d&title_color=C6FF3D&icon_color=8B5CF6&text_color=E7E9F3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PriyanshCh&show_icons=true&hide_border=true&title_color=4D7C0F&icon_color=6D3FE0">
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PriyanshCh&show_icons=true&hide_border=true&bg_color=07080d&title_color=C6FF3D&icon_color=8B5CF6&text_color=E7E9F3">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCh&layout=compact&hide_border=true&bg_color=07080d&title_color=C6FF3D&text_color=E7E9F3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCh&layout=compact&hide_border=true&title_color=4D7C0F">
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCh&layout=compact&hide_border=true&bg_color=07080d&title_color=C6FF3D&text_color=E7E9F3">
-  </picture>
+  <img height="170" src="https://streak-stats.demolab.com?user=PriyanshCh&theme=dark&hide_border=true&background=0D1117&ring=C6FF3D&fire=C6FF3D&currStreakLabel=C6FF3D&sideLabels=E7E9F3&currStreakNum=E7E9F3&sideNums=E7E9F3&dates=8A8FA8&stroke=8B5CF6" alt="GitHub streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshCh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6FF3D&icon_color=8B5CF6&text_color=E7E9F3&ring_color=C6FF3D&rank_icon=github" alt="GitHub stats">
 </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCh&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6FF3D&text_color=E7E9F3&langs_count=8" alt="Most used languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PriyanshCh&theme=github_dark" alt="Contribution graph">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FF3D,100:8B5CF6&height=110&section=footer" width="100%" alt="">
