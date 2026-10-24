@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-label="SentimentIQ architecture: React to Spring Boot to FastAPI DistilBERT, with PostgreSQL and Redis, 300ms end to end">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0614"/><stop offset="1" stop-color="#150a2e"/></linearGradient>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c6ff3d"/></marker>
+    <style>
+      .n{fill:#120a26;stroke:#8b5cf6;stroke-width:1.5}
+      .hot{stroke:#c6ff3d}
+      .t{font:600 15px Consolas,Menlo,monospace;fill:#ede9fe;text-anchor:middle}
+      .s{font:12px Consolas,Menlo,monospace;fill:#a78bfa;text-anchor:middle}
+      .l{stroke:#c6ff3d;stroke-width:2;stroke-dasharray:7 6;fill:none;marker-end:url(#ar);animation:d 1s linear infinite}
+      @keyframes d{to{stroke-dashoffset:-26}}
+    </style>
+  </defs>
+  <rect width="1100" height="270" rx="14" fill="url(#bg)" stroke="#8b5cf6" stroke-opacity=".5"/>
+  <text x="550" y="34" class="t" style="font-size:13px;fill:#c6ff3d;letter-spacing:3px">SENTIMENTIQ · DOCKER COMPOSE · 5 SERVICES</text>
+  <rect class="n" x="40" y="75" width="200" height="66" rx="10"/><text class="t" x="140" y="103">React + Nginx</text><text class="s" x="140" y="123">live Recharts dashboard</text>
+  <rect class="n hot" x="320" y="75" width="220" height="66" rx="10"/><text class="t" x="430" y="103">Spring Boot</text><text class="s" x="430" y="123">JWT · SSE stream</text>
+  <rect class="n" x="620" y="75" width="230" height="66" rx="10"/><text class="t" x="735" y="103">FastAPI</text><text class="s" x="735" y="123">DistilBERT · 28 emotions</text>
+  <rect class="n" x="320" y="185" width="105" height="56" rx="10"/><text class="t" x="372" y="209">Redis</text><text class="s" x="372" y="227">&lt;1ms hits</text>
+  <rect class="n" x="435" y="185" width="105" height="56" rx="10"/><text class="t" x="487" y="209">Postgres</text><text class="s" x="487" y="227">history</text>
+  <rect class="n" x="900" y="75" width="160" height="66" rx="10" style="stroke:#c6ff3d"/><text class="t" x="980" y="103" style="fill:#c6ff3d">300ms</text><text class="s" x="980" y="123">browser to browser</text>
+  <path class="l" d="M240 108H318"/><path class="l" d="M540 108H618"/><path class="l" d="M850 108H898"/>
+  <path class="l" d="M372 143V183"/><path class="l" d="M487 143V183"/>
+  <text x="550" y="258" class="s" style="font-size:11px">F1 0.57 · 43,410 training samples · MLflow-tracked</text>
+</svg>
